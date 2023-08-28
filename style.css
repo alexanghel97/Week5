@@ -1,0 +1,52 @@
+.container {
+    margin-left: 550px;
+    display: inline-flex;
+    border: 1px solid black;
+}
+
+.details {
+    margin-left: 80px;
+    margin-top: 25px;
+}
+
+.details input[type="text"] {
+    width: 300px;
+}
+
+.details input[ type="radio"] {
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.details button {
+    margin-top: 10px;
+    margin-left: 290px;
+    border: none;
+    height: 35px;
+    width: 100px;
+    background-color: rgb(46, 130, 208);
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+img {
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 430px;
+}
+
+#popUp {
+    display : none;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width : 783px;
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+
